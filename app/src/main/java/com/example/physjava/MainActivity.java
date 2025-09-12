@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private int factCount = 0;
 
     private final String[] physicsFacts = {
+
             "Свет travels со скоростью 299,792 км/с - это самая быстрая скорость во Вселенной",
             "В вакууме все объекты падают с одинаковой скоростью, независимо от их массы",
             "Атом на 99.9% состоит из пустого пространства",
